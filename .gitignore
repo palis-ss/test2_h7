@@ -1,0 +1,7 @@
+MDK-ARM/test2_h7_CM4/
+MDK-ARM/test2_h7_CM7/
+MDK-ARM/DebugConfig/
+*.uvguix.*
+*.uvoptx
+*.lst
+*.scvd
